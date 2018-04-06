@@ -1,0 +1,16 @@
+test.java:7: error: cannot find symbol
+        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+        ^
+  symbol:   class BufferedReader
+  location: class test
+test.java:7: error: cannot find symbol
+        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+                              ^
+  symbol:   class BufferedReader
+  location: class test
+test.java:7: error: cannot find symbol
+        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+                                                 ^
+  symbol:   class InputStreamReader
+  location: class test
+3 errors
